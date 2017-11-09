@@ -1,3 +1,3 @@
 # pull-request
 
-Content new added.
+Content added.
